@@ -1,0 +1,30 @@
+.calc {
+  width: 320px;
+  margin: 100px auto;
+}
+
+#ans {
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 55px;
+  text-align: right;
+  border: 2px solid;
+  box-shadow: 3px 2px 3px 1px;
+}
+
+.button {
+  background-color: black;
+  box-shadow: 1px 0px 0px 1px;
+  height: 60px;
+  width: 80px;
+  color: #fff;
+  border: 1px solid;
+  float: left;
+}
+
+.btn1 {
+  width: 160px;
+}
